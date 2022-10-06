@@ -1,0 +1,12 @@
+.weathers{
+  background: url("C:\Users\vishal\Downloads\weather1.png");
+height: 70vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.enter_details{
+  background-color:azure;
+  height: 50vh;
+}
